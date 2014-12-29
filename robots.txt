@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://snorbi07.github.io/sitemap.xml 
